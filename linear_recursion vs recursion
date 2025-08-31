@@ -1,5 +1,4 @@
-# Homework 4 hw04.py
-# name: Camran Mori-Khan
+# linear vs recursion 
 
 
 """
@@ -39,19 +38,7 @@ def linearSearchValueIndexEqual(plist, i =0):
         else:
             return linearSearchValueIndexEqual(plist[1:], i + 1)
 
-"""
-Problem 2 (binary version)
-"""
-def binarySearchValueIndexEqual(plist):
 
-    return
-
-"""
-Problem 3 (ladder)
-"""
-
-def ladder(rungs):
-    return
 
 
 
