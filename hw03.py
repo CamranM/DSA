@@ -1,9 +1,4 @@
-# Homework 3 hw03.py
-# Author Name: Camran Mori-Khan
-#
-# This program solves problems using stacks, including solving a mathematical problem written in rpn, determining
-# whether a string is valid or not, and reversing a string.
-
+#stack
 
 
 class Stack:
