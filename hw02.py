@@ -1,9 +1,5 @@
 
-# Homework 2 hw02.py
-# Author Name: Camran Mori-Khan
-#
-# This file uses the node class and transforms a linked list to a python list, concatenates two unordered linked lists, removes
-# nodes from the beginning of a linked list, and removes n nodes from the ith position in a linked list
+# linked list
 
 
 """
